@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "75477652308",
+    "project_id": "cloud-function-practice-f911f",
+    "storage_bucket": "cloud-function-practice-f911f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75477652308:android:26bb96586a8d9a5a89aec1",
+        "android_client_info": {
+          "package_name": "com.cartisan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75477652308-027aovbdpicpgjag9teh3gf8oih1g3ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoSzpuz-VzFNCbvwiw5RB09tYV-AjaNLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75477652308-027aovbdpicpgjag9teh3gf8oih1g3ih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75477652308-rjijp94tru68cb852c8bm4udn59u053q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cartisan.exchange"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
